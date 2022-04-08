@@ -35,9 +35,6 @@ CREATE ROLE department_boss;
 CREATE USER 'pedro'@'customer_data_manager' IDENTIFIED BY 'admin1234';
 CREATE USER 'jimena'@'customer_data_manager' IDENTIFIED BY 'admin1234';
 
-CREATE VIEW customer_inf
-as
-
 -- department1:
 CREATE VIEW Sed_Est_LLP_Boss
 as
