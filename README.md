@@ -1,1 +1,1 @@
-# Database course project
+# Database subject project
